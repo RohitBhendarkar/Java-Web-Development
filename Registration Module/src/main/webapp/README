@@ -1,17 +1,16 @@
-
-## Registration Module - Java GUI  
+## Registration Module - Java GUI Webpage 
 
 ## 📌 About the Project  
 This is a **Java-based registration module** developed in **Eclipse IDE** as a GUI application. Currently, it allows users to enter their details in a graphical interface but is **not yet connected to a database**.  
 
-## 🚀 Features  
+## 🚀 Features   
 - Interactive GUI for user registration  
 - Input validation for fields  
-- Designed using **Swing/AWT (Java GUI Frameworks)**  
+- Designed using ** JSP **  
 - Ready for future database integration  
 
 ## 🛠️ Technologies Used  
-- **Java (Swing/AWT)**  
+- **Java (JSP)**  
 - **Eclipse IDE**  
 
 ## 📂 Project Structure  
@@ -46,4 +45,4 @@ This is a **Java-based registration module** developed in **Eclipse IDE** as a G
 Contributions are welcome! Fork the repository, create a new branch, and submit a pull request.  
 
 ## 📧 Contact  
-For any issues or suggestions, contact: [your email or GitHub profile]  
+For any issues or suggestions, contact: https://github.com/RohitBhendarkar  
