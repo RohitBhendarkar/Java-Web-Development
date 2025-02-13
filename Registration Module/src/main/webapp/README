@@ -26,13 +26,9 @@ This is a **Java-based registration module** developed in **Eclipse IDE** as a G
 │── README.md  
 
 
-## ⚡ Setup Instructions  
-1. **Clone the repository:**  
-   bash
-   git clone https://github.com/RohitBhendarkar/Java-Web-Development/tree/main/Registration%20Module.git
-   cd registration-module
+## ⚡ Setup Instructions   
     
-2. **Open in Eclipse:**  
+1. **Open in Eclipse:**  
    - Import the project into **Eclipse IDE**.  
    - Run RegistrationForm.jsp to launch the GUI.  
 
