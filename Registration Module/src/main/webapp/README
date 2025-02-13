@@ -29,7 +29,7 @@ This is a **Java-based registration module** developed in **Eclipse IDE** as a G
 ## ⚡ Setup Instructions  
 1. **Clone the repository:**  
    bash
-   git clone https://github.com/RohitBhendarkar/Java-Web-Development/tree/main/Registration%20Module/src/main/webapp.git
+   git clone https://github.com/RohitBhendarkar/Java-Web-Development/tree/main/Registration%20Module/src/main/webapp
    cd registration-module
     
 2. **Open in Eclipse:**  
